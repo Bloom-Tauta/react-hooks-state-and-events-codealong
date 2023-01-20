@@ -27,5 +27,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bloom-Tauta/react-hooks-state-and-events-codealong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bloom-Tauta/react-hooks-state-and-events-codealong/issues"
+  },
+  "homepage": "https://github.com/Bloom-Tauta/react-hooks-state-and-events-codealong#readme"
 }
